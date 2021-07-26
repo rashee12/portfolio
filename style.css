@@ -1,0 +1,33 @@
+h1{
+ 
+    color:darkred;
+}
+
+*  {
+    border: solid;
+}
+
+.header{
+    display:flex;
+    justify-content: space-evenly;
+    
+}
+
+.grid{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.footer{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+
+.header h1{
+
+    color: deeppink;
+}
